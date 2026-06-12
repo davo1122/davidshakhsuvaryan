@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- **Языки:** Python 3 (основной)
+- **Языки:** Python (основной)
 - **Backend:** FastAPI, REST API, JWT-аутентификация, SQLAlchemy, Alembic
 - **Базы данных:** PostgreSQL, JSON-хранилища
 - **Данные / парсинг:** requests, BeautifulSoup4, pandas, openpyxl, gspread
